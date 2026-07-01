@@ -1,0 +1,3037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>The Journey in Metro Exodus</name>
+    <description>The canonical route of the Aurora train, based on real maps of the Russian Federation and Kazakhstan.</description>
+    <Style id="icon-1499-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1524-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1524-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1524-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1524-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1524-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1528-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1528-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1528-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1528-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1528-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1624-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1624-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1624-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1626-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1626-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1626-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1626-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1626-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1636-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1636-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1636-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1636-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1636-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1642-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1642-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1642-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1642-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1642-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1645-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1645-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1645-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1645-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1645-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1712-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1712-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1712-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1712-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1712-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-nodesc-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-097138-nodesc-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4488-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.488</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-4488-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>6.732</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4488-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4488-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4488-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Все станции на пути Авроры/Aurora`s canon route</name>
+      <Placemark>
+        <name>Москва, депо</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6gBTEY0N-mnWCl0yp-DclJn_FGIAbQBLY45Q5GVfSdDihg9SOhnlDf59JS2J5pTyOsVuFoW11B4dXlpgXYS_aFsfLVCPsVMtVv1vse6m1KuvY4VIS-UPF1ImFwTm30FKkGXMXHdCSoP7u6O5tUzU7qGpr2r6RXnpP_8_Y_hVEEUIUptyuIESmL2u0nBxeiYur2xVbD2YUKZ1dlNBHs5suN_iMA1xLe6HuSNpvv3IWsfvLlL4lh7ek5SY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>0 км<br>22.02.2035<br><br>Угон локомотива Артёмом, Анной и Ермаком.<br>Начало сюжета игры и старт маршрута+<br><br>Наиболее вероятный реальный прототип — локомотивное депо Люблино.]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6gBTEY0N-mnWCl0yp-DclJn_FGIAbQBLY45Q5GVfSdDihg9SOhnlDf59JS2J5pTyOsVuFoW11B4dXlpgXYS_aFsfLVCPsVMtVv1vse6m1KuvY4VIS-UPF1ImFwTm30FKkGXMXHdCSoP7u6O5tUzU7qGpr2r6RXnpP_8_Y_hVEEUIUptyuIESmL2u0nBxeiYur2xVbD2YUKZ1dlNBHs5suN_iMA1xLe6HuSNpvv3IWsfvLlL4lh7ek5SY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.728104,55.6743005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Перерва</name>
+        <description><![CDATA[Путь выезда из Москвы<br><br>Реальная железнодорожная станция.<br>Через неё, предположительно,<br>Аврора покинула Московский узел.]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.7170144,55.6612895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Курьяново</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.7015174,55.6499776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Москворечье</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.689789,55.641239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Царицыно Грузовая</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.6689521,55.6172471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бирюлёво Товарная</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.6538075,55.593326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бирюлёво Пассажирская</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.6599641,55.582709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Булатниково</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.6683168,55.5661295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Расторгуево</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.686818,55.5481461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Калинина</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.7083013,55.5163447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ленинская</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.7310938,55.4890991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 32 км</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.7474968,55.4729446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Домодедово</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.7729079,55.4393697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Взлётная</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.8053662,55.3950578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Востряково</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.8146208,55.3823101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Белые Столбы</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.8508119,55.3335341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 52 км</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.8705049,55.3114222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Барыбино</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.8955721,55.2695241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вельяминово</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.9212358,55.2049674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Привалово</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.9384707,55.1697917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Михнево</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.9609464,55.1209387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Шугарово</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            37.9882326,55.0625249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 85 км</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.0103457,55.0270519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жилёво</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.031708,54.985928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ситенка</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.05254,54.94519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ступино</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.0786228,54.9086652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Акри</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.1185226,54.8737481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кашира</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.1899359,54.8579411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тесна</name>
+        <description>Путь выезда из Москвы</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.243845,54.8304064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ожерелье</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxBQRfPDsoRLMfzH5zYjLWwCocO5ek6P8Yjaa684LGUYfcK98uLVqnPFhRGsKDbbLB4hBKQDX3HWuwF5Gy_q0cFK4Y2Xd8uGehIHUeZdmx85W0EERewZqQRf6PHMhMxko9Qmt9Boczfpbj7GLGZk1m2Oymmf1xDMUSydAxayhxRS7WIPE8w4a-rIiNwut0Vd0E7del-fseNlyFBv3OsZ5AR3hL-BmFuQHCP8e4bcSv-eCe4zhoAc_ANDBg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>ЧИСТЫЙ ВОЗДУХ !<br><br>108 КМ<br>23.02.2035<br><br>Выбрано имя локомотиву - Аврора<br>"Богиня утренней зари и крейсер... э-э... сами знаете чего."<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz2ZHhZrJEKnqmifZFvh2z8UecI-KsxpEXYfPTgT8L3uWM5Ma_steT5Gr3OsQ0Pjkvudl1t1cwn6hGCGOD_hKdcj1J1q1hvCas5obKqSFXuAxTHiIDjMjtSPxf31DSe2vmomYDWFf-cv3g9o4Q0rg1dtqJGj4S9iZmKxir6uhWtdZhCD8SgkBp1YcX5E7RQSBelL-s0svsXiJbFM1CAIUZgQEojKfQiIJkfrqUeutt6ET4dT147s9F1c_8?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GylbBUFUUS21IJU0XZcsp-7yUg_R_5RtvBzXmSrKPZvgg3n_aj6_HGaNftATT-2qk2ySJMq9kfGICCJzWhYmWltqsb2PJF2E7WlwKQEeUij688Cjj-ASAYmtkphMl1TkykNQBsveKh9s640YCstSDhmiYjtNL4b1NaSu6ucIZ7rZr5QhwA4Wlc5_n1qGEqWL1fOcoky5ldpbQRt3Is9xxH7Po2ur2tv4PnWPmWAPG7_wror4sXUFvGRYLQ?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxBQRfPDsoRLMfzH5zYjLWwCocO5ek6P8Yjaa684LGUYfcK98uLVqnPFhRGsKDbbLB4hBKQDX3HWuwF5Gy_q0cFK4Y2Xd8uGehIHUeZdmx85W0EERewZqQRf6PHMhMxko9Qmt9Boczfpbj7GLGZk1m2Oymmf1xDMUSydAxayhxRS7WIPE8w4a-rIiNwut0Vd0E7del-fseNlyFBv3OsZ5AR3hL-BmFuQHCP8e4bcSv-eCe4zhoAc_ANDBg?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz2ZHhZrJEKnqmifZFvh2z8UecI-KsxpEXYfPTgT8L3uWM5Ma_steT5Gr3OsQ0Pjkvudl1t1cwn6hGCGOD_hKdcj1J1q1hvCas5obKqSFXuAxTHiIDjMjtSPxf31DSe2vmomYDWFf-cv3g9o4Q0rg1dtqJGj4S9iZmKxir6uhWtdZhCD8SgkBp1YcX5E7RQSBelL-s0svsXiJbFM1CAIUZgQEojKfQiIJkfrqUeutt6ET4dT147s9F1c_8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GylbBUFUUS21IJU0XZcsp-7yUg_R_5RtvBzXmSrKPZvgg3n_aj6_HGaNftATT-2qk2ySJMq9kfGICCJzWhYmWltqsb2PJF2E7WlwKQEeUij688Cjj-ASAYmtkphMl1TkykNQBsveKh9s640YCstSDhmiYjtNL4b1NaSu6ucIZ7rZr5QhwA4Wlc5_n1qGEqWL1fOcoky5ldpbQRt3Is9xxH7Po2ur2tv4PnWPmWAPG7_wror4sXUFvGRYLQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2731461,54.8015988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 121 км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.303261,54.7747257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пурлово</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.384472,54.732033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 131 км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.4289259,54.7200518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Топканово</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.4759845,54.7061751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 137 км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.488481,54.6975356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Богатищево</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.5281081,54.6794568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 146 км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.5810563,54.6321233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Коровино</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.6001919,54.6162577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 152 км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.6105027,54.5854484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Узуново</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.6196441,54.5450042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 162 км (Мягкое)</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.645682,54.4968134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дудино</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.6645523,54.4779434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Серебряные Пруды</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.7217931,54.4590988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кораблёвка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.766392,54.395645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Треполье</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.831806,54.335789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Виленки</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.8981331,54.2940844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Донцы</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            38.946396,54.260471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Михайлов</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.0128713,54.2244784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бояринцево</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.057465,54.173462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Голдино</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.076595,54.100632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Лужковская</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.108498,54.039127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Волшута (Валшутка)</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.1411526,53.9694255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Катино</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.1516862,53.9364779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мшанка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.1858776,53.854948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кремлево</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.1999538,53.8359861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Павелец</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxWKIdJhiKgL58rKbdzrJk4j74Q0XDQcLEVxQ5TX7AkpgekxkK59jA60hnrvIEEWCl1HT6OrHTl3w8gZUG-Px0Qub3zuVY1u7unPWwhCE3TTvsgPPEpjivzmISWbaHGjQENWu4pvf_Upt3IpT0UooxPZgBBE_AhYDFRIVl7nSwoNDjlN9-Rxy8dIQ6NCjZzrpO92iMws8X4URRyJUWQ2-VRhPwUSF7RBtAVNMQGdFolMQ9sPKG3BeUC5BQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь на Волгу]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxWKIdJhiKgL58rKbdzrJk4j74Q0XDQcLEVxQ5TX7AkpgekxkK59jA60hnrvIEEWCl1HT6OrHTl3w8gZUG-Px0Qub3zuVY1u7unPWwhCE3TTvsgPPEpjivzmISWbaHGjQENWu4pvf_Upt3IpT0UooxPZgBBE_AhYDFRIVl7nSwoNDjlN9-Rxy8dIQ6NCjZzrpO92iMws8X4URRyJUWQ2-VRhPwUSF7RBtAVNMQGdFolMQ9sPKG3BeUC5BQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2409216,53.7875107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 259 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.2766488,53.7445717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Спасское</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.37015,53.6212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Милославское</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.4405473,53.5745019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гротовский</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.5273,53.53331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 294 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.5894641,53.5094105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Урусово</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.61672,53.49158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 302 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.6663952,53.4529568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Троекурово</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.71757,53.414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Заново</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.840149,53.3271475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Раненбург</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            39.9582472,53.2519342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 338 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.034802,53.252641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Снежеток</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.127885,53.239732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Богоявленск</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyhTH1s9kOEHl4X-Q3vtVGkLIK8-HJ1z9msAqEgdglwRK85haUbWpi7eG9_qAr6dW22Jp8s0MHYn9UkrU8ZZuSluIfe_qCyiJb5cnE1lpb30rnReIzr7D9q47iWr1-TZJ1D3v_plq2k8_fQpKxC8t5UfC89quozzOEpO-J_qzMDYEFYsKI5Nc8sSeVJrEqeyMNpQgRBYwfdfVNcwyHvY0wxHmxXllh9YixcgwsGecxAwguBYXn4MfdfW3s?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь на Волгу]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyhTH1s9kOEHl4X-Q3vtVGkLIK8-HJ1z9msAqEgdglwRK85haUbWpi7eG9_qAr6dW22Jp8s0MHYn9UkrU8ZZuSluIfe_qCyiJb5cnE1lpb30rnReIzr7D9q47iWr1-TZJ1D3v_plq2k8_fQpKxC8t5UfC89quozzOEpO-J_qzMDYEFYsKI5Nc8sSeVJrEqeyMNpQgRBYwfdfVNcwyHvY0wxHmxXllh9YixcgwsGecxAwguBYXn4MfdfW3s?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.2918407,53.2508516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Новокленский</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.318462,53.196238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 378 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.336711,53.15911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Бригадирская</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.347826,53.136666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 383 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.361152,53.112127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 389 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.393971,53.056157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 392 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.414538,53.043595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 395 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.444708,53.026434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кочетовка-3</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.481894,52.990794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Новое депо</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.482244,52.984855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кочетовка-2</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.481666,52.967681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Турмасово</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.5198816,52.9150749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Варваринский</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.6424859,52.9148385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Станция Никифоровка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.7810586,52.8875121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 437 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            40.895804,52.862233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сабурово</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.0132953,52.8302412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Селезни</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.1681367,52.818614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Челновская</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.2324672,52.7944255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пушкари</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.3033611,52.7720356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Радужный</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.3858188,52.7547963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тамбов 1</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzsyx9E_M9lwnw_DIxJr8qzk6yJ0VBw3dJhxxKY_GjcfP9zXhNl9MwZaXjRDqKaiM_jhFVjCZ_-f4JZXZ87YwBcoIHq7GKuKSCtPczvqgueZhjXRE5-HD4tElmMS4Mq1cX8rXv9i305aXKxkuk_0M2G_wP2MJscS7dFneRiVvg-hqaNPpXDInW0Stn6SZMidn1bUT1e-47Ib_4sCAoWpzrwEhy75jSsg1MklD_EMWYkxAuW19pyXStTs9k?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь на Волгу]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzsyx9E_M9lwnw_DIxJr8qzk6yJ0VBw3dJhxxKY_GjcfP9zXhNl9MwZaXjRDqKaiM_jhFVjCZ_-f4JZXZ87YwBcoIHq7GKuKSCtPczvqgueZhjXRE5-HD4tElmMS4Mq1cX8rXv9i305aXKxkuk_0M2G_wP2MJscS7dFneRiVvg-hqaNPpXDInW0Stn6SZMidn1bUT1e-47Ib_4sCAoWpzrwEhy75jSsg1MklD_EMWYkxAuW19pyXStTs9k?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            41.4269915,52.7186054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Цна</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.469309,52.686936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Рада</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.59732,52.705175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 509 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.855095,52.7083547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Станция Платоновка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            41.95381,52.71745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 533 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.1954028,52.6849426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Тягуновка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.276132,52.666429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Иноковка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.385303,52.647983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Овчарный</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.459444,52.6388667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Калаис</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.574339,52.6458682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 564 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.6283096,52.6356932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кирсанов</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyAGe5vkpZAJpdg1cxx7lfzxWuzgJ8ifCho1dBcAefZUgBAaKS0krr4dYuS0ApJAn18ucNcNdgl4RS4wk7S93Re_dNw3HPrkDdHekGXyEF2eJnil60EyiAaQax16qbavW1hMCxwc_ktBIqXbXW5KYu17efp9gGAylyodRKMlOFsHh_lG96loqmaFdSyw90SpzUE_Fh0hN30Ds_I8_0Md7TpBJCMRmdEIwRWls52YDlY8ykm67iJuMw_3nA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь на Волгу]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyAGe5vkpZAJpdg1cxx7lfzxWuzgJ8ifCho1dBcAefZUgBAaKS0krr4dYuS0ApJAn18ucNcNdgl4RS4wk7S93Re_dNw3HPrkDdHekGXyEF2eJnil60EyiAaQax16qbavW1hMCxwc_ktBIqXbXW5KYu17efp9gGAylyodRKMlOFsHh_lG96loqmaFdSyw90SpzUE_Fh0hN30Ds_I8_0Md7TpBJCMRmdEIwRWls52YDlY8ykm67iJuMw_3nA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            42.7290689,52.6434404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тоновка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.822518,52.63519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Преображенский</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.8559677,52.6189478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 583 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.877675,52.603538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Умёт</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            42.965493,52.564252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Гришинский</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.102033,52.527611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тамала</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.2478094,52.5425958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 620 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.350921,52.520667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 636 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.520565,52.438376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вертуновская</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.5294461,52.4171373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 640 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.535264,52.404093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 646 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.5886,52.360304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 658 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.707347,52.285899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 662 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.7603955,52.2692678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ртищево-1</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy3XqYjGvppMBhiMNZUjQ8SaoRMZROYx6F7H2tmvoZh3SJo5jWFp9unY_cw-0KW6CnjmVJc5VQoalA6diluoPGnogDMw3u5dFw4nEg5lWJszyfDEcIR0VEyTz5ONJF3u91_h5HGTXk4xds9rE2_AG8T1Xmas-AVcU8N3UUJeh1H6HJ_0iRmUHXwvdRNWo8VWb67nK_TEuotNZk30UKCdQtzrEnlC9erEeaqL-5wZYRmYPPUfD-cz3zmSrA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь на Волгу]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy3XqYjGvppMBhiMNZUjQ8SaoRMZROYx6F7H2tmvoZh3SJo5jWFp9unY_cw-0KW6CnjmVJc5VQoalA6diluoPGnogDMw3u5dFw4nEg5lWJszyfDEcIR0VEyTz5ONJF3u91_h5HGTXk4xds9rE2_AG8T1Xmas-AVcU8N3UUJeh1H6HJ_0iRmUHXwvdRNWo8VWb67nK_TEuotNZk30UKCdQtzrEnlC9erEeaqL-5wZYRmYPPUfD-cz3zmSrA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            43.7881038,52.2605298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ртищево-2</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw4LVb7DmMHdZ_si5dLo_Tbpy7OljoWzggHxTd4barODFjZ1VQmndQeBWx-KHjPdBoXb2jDsBF_PnDq7m8cIwpr-O5xl0ovfAQuItA5kIvJYE_KvtuvJfsmpm74vk7dd_hG4u7R6BHQq0ZTCfX2sxxINb3zf4Ik-0IbyPHJkwu0tYm8WYE64z2Hx7abM-aC2RYY9dXVqMlFZHnPV3hulen9HOQoCYza62NJsjduk0jpMN-5eWLMWlrvOZ4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь на Волгу]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw4LVb7DmMHdZ_si5dLo_Tbpy7OljoWzggHxTd4barODFjZ1VQmndQeBWx-KHjPdBoXb2jDsBF_PnDq7m8cIwpr-O5xl0ovfAQuItA5kIvJYE_KvtuvJfsmpm74vk7dd_hG4u7R6BHQq0ZTCfX2sxxINb3zf4Ik-0IbyPHJkwu0tYm8WYE64z2Hx7abM-aC2RYY9dXVqMlFZHnPV3hulen9HOQoCYza62NJsjduk0jpMN-5eWLMWlrvOZ4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            43.835835,52.244371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 670 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.850834,52.229715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Благодатка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            43.877828,52.213126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Салтыковка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            44.0738649,52.1159093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Екатериновка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            44.3441469,52.0550912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Афросимовский</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            44.596467,52.025803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Капеллы</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            44.894986,51.926707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Аткарск</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.0104139,51.8775589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. 809 Км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.5171461,51.6782374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Станция Татищево</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.5952272,51.6698948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пл. 822 км</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.6855511,51.6744501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жасминная</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.845776,51.589414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>О.П. Поливановка</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.8927307,51.592041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Трофимовский-1</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9398531,51.5926458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Остановочная платформа</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.958082,51.5897355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Остановочный пункт "Площадь Ленина"]]></name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9746725,51.5806195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Студенческий Городок</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9923762,51.5717139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вокзал Саратов-1-Пассажирский</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9988133,51.5419154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Станция Саратов-2</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9913595,51.526686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Саратов-2, станция ПЖД</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9894274,51.5198639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Поворот на Увек</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9718369,51.5095814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Движение в сторону Увека - 1</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.961753,51.5021406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Движение в сторону Увека - 2</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9619304,51.4976475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Движение в сторону Увека - 3</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9641881,51.4921952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Движение в сторону Увека - 4</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9599857,51.4863253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Движение в сторону Увека - 5</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9559799,51.4760758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Движение в сторону Увека - 6</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9572781,51.4559495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Движение в сторону Увека - 7</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9672202,51.4366172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Увек</name>
+        <description>Путь на Волгу</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            45.9717259,51.426484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Предполагаемое место стоянки Авроры перед мостом через Волгу</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwxSaWiwGWLqQQ8tKy3qtgCgshnIvS26trMq68nEM5Aq3f3XIdg5dKDs_pMEIYfvQvI2hVrixNeATWrb7cwDV8h_hSF6CNogJW09u5g_8udvP1LudA8rGeZjKJ5cyl2kobvfUEumj1EdgGKgpdSpaIJr48I5m6hZgsMW8SfirqGLIEtLamnWMglCLesUhzNH08Xkvpo8XlX20RLOwfpF8lT8CG-miAPgGltfBTZLFKa3NnHxPBSeJHcXBM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>МОСТ!<br>776 км<br>08.03.20235<br><br>ОККУПАНТЫ?]]></description>
+        <styleUrl>#icon-1528-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwxSaWiwGWLqQQ8tKy3qtgCgshnIvS26trMq68nEM5Aq3f3XIdg5dKDs_pMEIYfvQvI2hVrixNeATWrb7cwDV8h_hSF6CNogJW09u5g_8udvP1LudA8rGeZjKJ5cyl2kobvfUEumj1EdgGKgpdSpaIJr48I5m6hZgsMW8SfirqGLIEtLamnWMglCLesUhzNH08Xkvpo8XlX20RLOwfpF8lT8CG-miAPgGltfBTZLFKa3NnHxPBSeJHcXBM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            45.9659226,51.4220677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Увекский мост</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz6Cc6wDMiygg-LhxAYRDelP3LmbAg6d7fRUKVJ_akzoSlrAGyAxypHXG0rrE9guwZT4x5N3Xs9OZloUayWxmDmWsIb0gLJ3uQldoA3ZJleYXNRJKywV0ELBRZnKiIksAupgyqI6NGXfsTDNOvNgFaZEthy-s3sUsM-EvTBxltsXmMyJxvoxUGj_6H1YhrW3M2bISjXXUnCPmUBcQ4Y6i7e7DhoyUD1_q9z2vgootED71QhllvmQn9cht8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Мост с подъёмной секцией.<br><br>Локация "Волга" была довольно сильно изменена по сравнению с реальным местом: добавлены острова, церковь, кран где живёт Крест, обитель Царя-рыбы, и пр.<br>Сам мост отмечен на игровой карте верно, но видоизменён, в угоду игровому сюжету, добавлена подъёмная секция в центре (Реальный аналог - Астраханский авто-железнодорожный мост), где находится центр "Ордена электроборцев", и "Церковь Царя Водного". <br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxMhCw2gd5smK5f47_Me7aLXY_0weNgfw3voIAGvZ4KixxS-eMPmDCXh-sqUiuOdVJqzFTg3spC9aQaZuXSvVQSNFGowxUWsvjbP5vrX0RuMlSR2PRMlb7jbQtYhuRNDK2W-aIdZnr8XicOiQQu0mXeQZlg3mxZ4WWLw2oJ3U0KCFRxIS4M5V8i9BtpxSr6s3mqIdz7c8e194EVFnPiMZfSBGTsu5d69Jb5W1pb17WPvaiHaQJVxDBEOO4?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz6Cc6wDMiygg-LhxAYRDelP3LmbAg6d7fRUKVJ_akzoSlrAGyAxypHXG0rrE9guwZT4x5N3Xs9OZloUayWxmDmWsIb0gLJ3uQldoA3ZJleYXNRJKywV0ELBRZnKiIksAupgyqI6NGXfsTDNOvNgFaZEthy-s3sUsM-EvTBxltsXmMyJxvoxUGj_6H1YhrW3M2bISjXXUnCPmUBcQ4Y6i7e7DhoyUD1_q9z2vgootED71QhllvmQn9cht8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxMhCw2gd5smK5f47_Me7aLXY_0weNgfw3voIAGvZ4KixxS-eMPmDCXh-sqUiuOdVJqzFTg3spC9aQaZuXSvVQSNFGowxUWsvjbP5vrX0RuMlSR2PRMlb7jbQtYhuRNDK2W-aIdZnr8XicOiQQu0mXeQZlg3mxZ4WWLw2oJ3U0KCFRxIS4M5V8i9BtpxSr6s3mqIdz7c8e194EVFnPiMZfSBGTsu5d69Jb5W1pb17WPvaiHaQJVxDBEOO4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            45.9697134,51.4131003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Саратовский железнодорожный мост</name>
+        <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            45.9805056,51.4121244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Приволжский</name>
+        <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            46.047421,51.41589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Анисовка</name>
+        <styleUrl>#icon-1899-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            46.0822,51.40939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Урбах</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxv3NIIGYgicJVOZA3ki15RiDoL3m1oKtC4nECwWQisfQ75gqQmUuoikl0a4qo3xRfU3-eRZ35jVqKZO9mFzq8EOXSyeZ7wF4rXTcljoptZYcU__mSQFCf0M8glhj9kzuABxPLOby00v1jKU7CtCeh7u4bNMM-Qv0zpnJibsmVt7eKVki1C9enK7KKGZIVQ_lS5c3jEskGOzz6BaK3mZrP04uPOAqeoiRRkQzki5TwPp3t6sp9zHQjQnY8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxv3NIIGYgicJVOZA3ki15RiDoL3m1oKtC4nECwWQisfQ75gqQmUuoikl0a4qo3xRfU3-eRZ35jVqKZO9mFzq8EOXSyeZ7wF4rXTcljoptZYcU__mSQFCf0M8glhj9kzuABxPLOby00v1jKU7CtCeh7u4bNMM-Qv0zpnJibsmVt7eKVki1C9enK7KKGZIVQ_lS5c3jEskGOzz6BaK3mZrP04uPOAqeoiRRkQzki5TwPp3t6sp9zHQjQnY8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            46.9768038,51.2362775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ершов</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzXmIqEODKL8M88qHRreOlovChVLamsdHQs8VyzaIU6kmuZpMqX0eVmPkqFO67S6Nip9CEppJ1VvZ-jTRoIV2SQCO8GP3eWCKSq971rggPK4wJcjZXdqpKLdNSj-PwmofwkaBa05jRCcTsZjQeSOWeF-khz02B4yLC60ndBJvCz3cZPf9Ko3OHcOf9pZNb3Natm2A2p8Yekpv-IZd9_nFCN66tpGx7eGX3CSpokshvXx_5myaScRdB6Dho?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzXmIqEODKL8M88qHRreOlovChVLamsdHQs8VyzaIU6kmuZpMqX0eVmPkqFO67S6Nip9CEppJ1VvZ-jTRoIV2SQCO8GP3eWCKSq971rggPK4wJcjZXdqpKLdNSj-PwmofwkaBa05jRCcTsZjQeSOWeF-khz02B4yLC60ndBJvCz3cZPf9Ko3OHcOf9pZNb3Natm2A2p8Yekpv-IZd9_nFCN66tpGx7eGX3CSpokshvXx_5myaScRdB6Dho?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            48.2769289,51.3482399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Озинки</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GypMWQi_Hd8ngjM_ECqGbTW676Wh1jK0-7e7ynTE9U3-rnVlQgC5Q6E_DQnAP2y9vCYO5wpgMFZUr_fmQFIVgJ83CCklbwsI30DMKQBns8Q0ZX3Rz2KPLX3YYX7tEnGzvY2eHP_v9ITvVa2whAW-po1KDZ6VJ4yXgsvOQ6MOO6jBc4c91sc1pVR6Y1DtQTifrTEEfXY5rTISHeYgstBcPHfvTrVh75FY27hgQ83MuE8QfIQoHQolLt712k?authuser=0&fife=s16383" height="200" width="auto" /><br><br>ВЕСНА<br><br>1086 км<br>22.03.2035<br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1645-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GypMWQi_Hd8ngjM_ECqGbTW676Wh1jK0-7e7ynTE9U3-rnVlQgC5Q6E_DQnAP2y9vCYO5wpgMFZUr_fmQFIVgJ83CCklbwsI30DMKQBns8Q0ZX3Rz2KPLX3YYX7tEnGzvY2eHP_v9ITvVa2whAW-po1KDZ6VJ4yXgsvOQ6MOO6jBc4c91sc1pVR6Y1DtQTifrTEEfXY5rTISHeYgstBcPHfvTrVh75FY27hgQ83MuE8QfIQoHQolLt712k?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            49.734868,51.194608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Уральск-Товарная</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxnM19s8CIwOcFLS3HB0uJfeaqlf99BRNV27X6qndNtKf_9CRtNR_yAi875F1ups79zUtfH2scOk_QSl4qY2i7mOQFzes-yIoQ4BLJkKj70FrbiWtyj84VUJUTs_CN_oGY4MTpXPZVcJObynAEcBAKeFbTXiGRG9LZ7a7bD1nLdiHKLPS9Q1FqxPJwoD1kY5hNCbmksjvlMdtURoHzbS50LaIOGNtWf2qQ9EgnurPifJYZ7GYHhNhitMv8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxnM19s8CIwOcFLS3HB0uJfeaqlf99BRNV27X6qndNtKf_9CRtNR_yAi875F1ups79zUtfH2scOk_QSl4qY2i7mOQFzes-yIoQ4BLJkKj70FrbiWtyj84VUJUTs_CN_oGY4MTpXPZVcJObynAEcBAKeFbTXiGRG9LZ7a7bD1nLdiHKLPS9Q1FqxPJwoD1kY5hNCbmksjvlMdtURoHzbS50LaIOGNtWf2qQ9EgnurPifJYZ7GYHhNhitMv8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.3186,51.2452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вокзал Уральска</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwx5QMvMPYS_R-78RRXSdhTA5LvLRz7Z8er2SasJFgQLnMEuHtsod6vo6Hjpi6bkVSmIGC1bCLVoCGgGZ0Gaw-3IQdskX-sUHu6sphiE4kRb-Q4Za0kJqJLP193zTC_kOoV2FHmfO3m4VDEE81ueSgxqfjwvceR74xvfFLglWzVBzLQ2l70ixX9s6GRp8Z20paOQn1adXV0NtftLU4tGIPQ-F-HlQgmswsuYU4Mn-t0-wY-QwGaxsbLRKo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwx5QMvMPYS_R-78RRXSdhTA5LvLRz7Z8er2SasJFgQLnMEuHtsod6vo6Hjpi6bkVSmIGC1bCLVoCGgGZ0Gaw-3IQdskX-sUHu6sphiE4kRb-Q4Za0kJqJLP193zTC_kOoV2FHmfO3m4VDEE81ueSgxqfjwvceR74xvfFLglWzVBzLQ2l70ixX9s6GRp8Z20paOQn1adXV0NtftLU4tGIPQ-F-HlQgmswsuYU4Mn-t0-wY-QwGaxsbLRKo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.3696222,51.228465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ж/д Мост Через Р. Урал</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwS_X0j1r9EDna3OwjPUDJHgg60xKyuBiI8_sD2j6bkiKIPSdbA3zT6cSH_3KjvC6QU9JsbxU-EaY7OQMEU8Se6UtCrAFL0hSn87et-3DoHGEmzTOUalSduiWEdUDLQrCH_gb5X2X3CesV8LNo29DVFBtyqnRsdEq3GGBnuIhClfaYCq61YwGnuGxQu7Z8-EQf3JK4wCye7mjo5b7QR4LmnEPVjXui1BcFW6-2pQ-jzslPnBpZgv5vrx6w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwS_X0j1r9EDna3OwjPUDJHgg60xKyuBiI8_sD2j6bkiKIPSdbA3zT6cSH_3KjvC6QU9JsbxU-EaY7OQMEU8Se6UtCrAFL0hSn87et-3DoHGEmzTOUalSduiWEdUDLQrCH_gb5X2X3CesV8LNo29DVFBtyqnRsdEq3GGBnuIhClfaYCq61YwGnuGxQu7Z8-EQf3JK4wCye7mjo5b7QR4LmnEPVjXui1BcFW6-2pQ-jzslPnBpZgv5vrx6w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.0839341,51.7505789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жд вокзал, Оренбург</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwkqz--ZfpAymiXZyIIQ1fBmIYiWVtwaFP97HnIrQKs4QO22fn5GRfPP3OxY4LKbQV6Um_rN0NKHeo5wCIuABn-B1uhq3ln5uwPY2sgOU_709qFCSffSb-uTkf5Nz-5Q8vZxD7zmy5vYaDx6Hp6F6FHrATeSGZ9jKHlrCqo8C1txdhCbs8flGrDelvnH_8uhMT533IHuSFR-JtBkYUUnjiFg92XnqKJZ9hYkYIop1vKVQC6yviVdWIGR0o?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwkqz--ZfpAymiXZyIIQ1fBmIYiWVtwaFP97HnIrQKs4QO22fn5GRfPP3OxY4LKbQV6Um_rN0NKHeo5wCIuABn-B1uhq3ln5uwPY2sgOU_709qFCSffSb-uTkf5Nz-5Q8vZxD7zmy5vYaDx6Hp6F6FHrATeSGZ9jKHlrCqo8C1txdhCbs8flGrDelvnH_8uhMT533IHuSFR-JtBkYUUnjiFg92XnqKJZ9hYkYIop1vKVQC6yviVdWIGR0o?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.0747613,51.7762987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ж/д Мост Через Р. Сакмара</name>
+        <description><![CDATA[Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            55.0539245,51.8284301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бузулук</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyuJNFtPYm8_e5MoqPTVdayBhKii-_yTEXNicy0w4CwNWFfBtKBjc-r6fcAJwhNBg7PqCBne54yJQPw3LkHDRWIjJE6Gq7WZuNexHLzdRoZ9Wwrd6MhGkY-k6Oat7oVmxh3eu6iYfZOS7v8cAEe4q8bNQUF-AL5gFXCTrmA3wPZgyQNbJp63AhTNb4aVb2coj_vDKHAHn80vpBsev1lbDAK2MWbXY6dQBAUiJ7DOHWmewdIZOovlq1i_4w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyuJNFtPYm8_e5MoqPTVdayBhKii-_yTEXNicy0w4CwNWFfBtKBjc-r6fcAJwhNBg7PqCBne54yJQPw3LkHDRWIjJE6Gq7WZuNexHLzdRoZ9Wwrd6MhGkY-k6Oat7oVmxh3eu6iYfZOS7v8cAEe4q8bNQUF-AL5gFXCTrmA3wPZgyQNbJp63AhTNb4aVb2coj_vDKHAHn80vpBsev1lbDAK2MWbXY6dQBAUiJ7DOHWmewdIZOovlq1i_4w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.2707729,52.7687739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кинель</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyM5QXa2QidaRXZhZJQjW1hLjslafzbDU8iXMNXt09Or9QsG7g9rsObJWMl9r14kwYQbL5WfyM-rtHjJ7LF3HemevFf2GjgMZwfl4ABVZM0TQThdWP_3mcuX0NBTwptcAiwjnztISc2cOkeKiYHookI917CSJQR2g5gqmzqEYkrt5D7Wwhs5YN9OLI5LaEu8Icfdsa5DLFm3gJnbyd4EBR8DOWqAr2YUTJ-cXZuaHxBR76lMsEbHgDbTzQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyM5QXa2QidaRXZhZJQjW1hLjslafzbDU8iXMNXt09Or9QsG7g9rsObJWMl9r14kwYQbL5WfyM-rtHjJ7LF3HemevFf2GjgMZwfl4ABVZM0TQThdWP_3mcuX0NBTwptcAiwjnztISc2cOkeKiYHookI917CSJQR2g5gqmzqEYkrt5D7Wwhs5YN9OLI5LaEu8Icfdsa5DLFm3gJnbyd4EBR8DOWqAr2YUTJ-cXZuaHxBR76lMsEbHgDbTzQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.6330552,53.2307209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кротовка</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxA3bJmrQaUn4bcXP3zTJ4ER9QGWPFMwymcp6PYFqh_eeADPz3UCZAj-PTZ7ev2lQk74MWqHBs3hFURwd_wOLyoubzdevr6EHY2J3UNvOSsasPSv5aDEfxazuWgA-gBGktY-N_LtfCWz8erGUGcX328eHAESpNkX0kS1GgkBW1wYaVjOSo3HXbhP6Y-gqSA8203SgV7sqxF0gN77GkaVmtLR-gwem9fs7OjKWspoQYwPdZZLnAjm3CPpTM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxA3bJmrQaUn4bcXP3zTJ4ER9QGWPFMwymcp6PYFqh_eeADPz3UCZAj-PTZ7ev2lQk74MWqHBs3hFURwd_wOLyoubzdevr6EHY2J3UNvOSsasPSv5aDEfxazuWgA-gBGktY-N_LtfCWz8erGUGcX328eHAESpNkX0kS1GgkBW1wYaVjOSo3HXbhP6Y-gqSA8203SgV7sqxF0gN77GkaVmtLR-gwem9fs7OjKWspoQYwPdZZLnAjm3CPpTM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.1731149,53.2799031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Похвистнево</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwt1CPhN1x7zeGeQQRWKK2mOq9lQvPkf_PLIGuGt8JDy1tpYfnNmKqs7jfWq3QavX3N0RCxtc_jpAHyRaJ1F4g8FMRYixFMi-cs62jvFMUJ7C4wdaq4rElcbE0UEyw-rWjCeynkKUGsDv6vGHdszmRFs-tuzoKRrVfFoRrF43mj9yVb7F-EYMtyZsq0IDmqAtr70GkTUnSRwuCpaj4ssu-JFNkgivJ_I3JNAnpbNQZPZoC751YTfxwbD1Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwt1CPhN1x7zeGeQQRWKK2mOq9lQvPkf_PLIGuGt8JDy1tpYfnNmKqs7jfWq3QavX3N0RCxtc_jpAHyRaJ1F4g8FMRYixFMi-cs62jvFMUJ7C4wdaq4rElcbE0UEyw-rWjCeynkKUGsDv6vGHdszmRFs-tuzoKRrVfFoRrF43mj9yVb7F-EYMtyZsq0IDmqAtr70GkTUnSRwuCpaj4ssu-JFNkgivJ_I3JNAnpbNQZPZoC751YTfxwbD1Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.1302381,53.6517115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дёма</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw7L76r0wnkXrjVOaXsk3goj_cP1UtnQiVq6ZlOveyk8Lc-A_MLPxcWFgozj9_SjuPLf7Sq5fSU7-jQVSgXEDbaBL4DReyV4dnkDlthnI6kwibAh2GOnan6LCpSKv4R7DSGyLxtJQRPd9lI67PKgm94_DRGDQm_nDvu3hyVEOpDJcHCrQmkJaDYugtp4-6r88qlTW0c3GLpEwZh_I6GjzjvJnWLCu5SBzuqAV08UsiuYfoJBCi6Lktg-e4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь до правительственного бункера "Ковчег" на горе Ямантау]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw7L76r0wnkXrjVOaXsk3goj_cP1UtnQiVq6ZlOveyk8Lc-A_MLPxcWFgozj9_SjuPLf7Sq5fSU7-jQVSgXEDbaBL4DReyV4dnkDlthnI6kwibAh2GOnan6LCpSKv4R7DSGyLxtJQRPd9lI67PKgm94_DRGDQm_nDvu3hyVEOpDJcHCrQmkJaDYugtp4-6r88qlTW0c3GLpEwZh_I6GjzjvJnWLCu5SBzuqAV08UsiuYfoJBCi6Lktg-e4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.83579,54.69572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ямантау</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GylAmZBAeQANKC92qfzBvDJLe4tPXVTMoAKk9VxmklrA_9fevHuP2wYUKgQMInr701REzwTPW8UqHBvB7tGPk7M5PdNP3ZQoEmaXzJ1RUZVa9AFWUXFCgi8dPdW2Eppdii_7hO7-rdDWsdCTl3iwogXBBHRXWhxLr6ZKUx3OIOmtedOB8y0duV0egSgD0XadHuvhVAefQUJMbmY3sUiR6YGJKwQ3rJTnDxZ7OERjgAkPBPRv8nvyLzibQw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>ПРОЕКТ "КОВЧЕГ"<br>Г. ЯМАНТАУ<br><br>2718 км<br>25.05.2035<br><br>ПРАВИТЕЛЬСТВО?<br>КАННИБАЛЫ<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzLt5iR06xAGfKQOgh0RAVDZUHnjOmskfDHP2lU5VL9G9isqk3dOXJzeCTOiQVLwfi8T3RibXMrmakZ3z7ClKKQyCq7VRpOdqDniErRJj6JpplQq57MdeJeJVjIPXZOFaJ_X4UiPViyYhg6GsEUd0dsYG2S7h7x726hivg5-bteDNnTsZseWJKJtbJBUylx_j3ZlOme1_VHaOpZ8xLOc3orNQsGhe-EPDjB9PhVlJrD6cxvBezJzhGNls8?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyOnKkE8gufliOSvOe_VqBHcA7fvJBiE1kHpI4SzVK0k8qUpjrlKieu__vMA_0qO63R3JaSUxOX1bsIm7Ha62YVC_IF7Uas3YbjFawmZ0zr4vn62FUaLqu5b6sTm3Oy-EavsTRD8JqtMZ3RWL1EgJ32oNvZvo818DEX7exEQ-q6Yt4_35zLxFVPrHuNr8Awct_REYf_HEYKYPhYHhEb5WpRjSQdGMsx6hMFJwSc6PRS-Jsei3AOdbtlQ48?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GylAmZBAeQANKC92qfzBvDJLe4tPXVTMoAKk9VxmklrA_9fevHuP2wYUKgQMInr701REzwTPW8UqHBvB7tGPk7M5PdNP3ZQoEmaXzJ1RUZVa9AFWUXFCgi8dPdW2Eppdii_7hO7-rdDWsdCTl3iwogXBBHRXWhxLr6ZKUx3OIOmtedOB8y0duV0egSgD0XadHuvhVAefQUJMbmY3sUiR6YGJKwQ3rJTnDxZ7OERjgAkPBPRv8nvyLzibQw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzLt5iR06xAGfKQOgh0RAVDZUHnjOmskfDHP2lU5VL9G9isqk3dOXJzeCTOiQVLwfi8T3RibXMrmakZ3z7ClKKQyCq7VRpOdqDniErRJj6JpplQq57MdeJeJVjIPXZOFaJ_X4UiPViyYhg6GsEUd0dsYG2S7h7x726hivg5-bteDNnTsZseWJKJtbJBUylx_j3ZlOme1_VHaOpZ8xLOc3orNQsGhe-EPDjB9PhVlJrD6cxvBezJzhGNls8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyOnKkE8gufliOSvOe_VqBHcA7fvJBiE1kHpI4SzVK0k8qUpjrlKieu__vMA_0qO63R3JaSUxOX1bsIm7Ha62YVC_IF7Uas3YbjFawmZ0zr4vn62FUaLqu5b6sTm3Oy-EavsTRD8JqtMZ3RWL1EgJ32oNvZvo818DEX7exEQ-q6Yt4_35zLxFVPrHuNr8Awct_REYf_HEYKYPhYHhEb5WpRjSQdGMsx6hMFJwSc6PRS-Jsei3AOdbtlQ48?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            58.102,54.255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Белорецк</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxkRshuVvayvTwIqK7XF7XCjk_rT-PDpLbBOg9yUp4EQEqWwbfBXiWpDSBdAesT-UnBA9suochrqpl53jzJl_1QOifKKwZ0VjY7w-iKzKuJA2_B7lL5fATSTDvvsZ4kqnS--huzFGvGbkYrdqY-HKUukxQF_W0D2Yp1t1AiPpfa7XFjwsN4GTKSQxnsrUjzSeoaXLRQFhT8ZWhsb6IY0t7bCyNLS18S2qEMlLV4cllWKEQ4aAzUl9Ei5hc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxkRshuVvayvTwIqK7XF7XCjk_rT-PDpLbBOg9yUp4EQEqWwbfBXiWpDSBdAesT-UnBA9suochrqpl53jzJl_1QOifKKwZ0VjY7w-iKzKuJA2_B7lL5fATSTDvvsZ4kqnS--huzFGvGbkYrdqY-HKUukxQF_W0D2Yp1t1AiPpfa7XFjwsN4GTKSQxnsrUjzSeoaXLRQFhT8ZWhsb6IY0t7bCyNLS18S2qEMlLV4cllWKEQ4aAzUl9Ei5hc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            58.3218555,53.9270817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Карталы 1</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxCyVkrl1hDiY25BJoqeqRwgia3ICOX8Bpm5puHam3P3kQ8MIg6tlhf8zgSculf9d8QfcBkqbKPv_7nCU2zU_a0WZ2TEGX3hUF71ht1UzdYdu4Hi2GaX_5GE77dLbUJL4Elvoja6ybkJ9M3kN6LV0U6P1hHHju7sw0OP3b1Rv6U5hlM3BFr3fi5syzW3c6zoJpbnFSx9mAr-rJ-Vi5OvQM9oaYjLuj7_7PQMWmw8xKpNbGZmd-kagKcJUY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxCyVkrl1hDiY25BJoqeqRwgia3ICOX8Bpm5puHam3P3kQ8MIg6tlhf8zgSculf9d8QfcBkqbKPv_7nCU2zU_a0WZ2TEGX3hUF71ht1UzdYdu4Hi2GaX_5GE77dLbUJL4Elvoja6ybkJ9M3kN6LV0U6P1hHHju7sw0OP3b1Rv6U5hlM3BFr3fi5syzW3c6zoJpbnFSx9mAr-rJ-Vi5OvQM9oaYjLuj7_7PQMWmw8xKpNbGZmd-kagKcJUY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            60.6420489,53.0532481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Айдырля</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy6ZFOyUQ0prl3gmBwv0foxdwT4rLLDzsC9b2Pp_LQv5GNux-4c9YGztp0cwUOkvFgJXtyclEzSxPG3JRNTwpN1Jd6nLoS111oT7_1HcCGM5vIytQ2CiWN1u4BgGDGzGN8cMsrLHCs6GhUJ1BM8UDYvLA_k1bH__ot6tXZPvotqm-g4WW2ZFRaKEWrE-Hx7XE3gZZSvtrv-lGcHk4H7LNAmFViXj10APdQkJqaYbEcU3BM0rwYQD0I38uc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy6ZFOyUQ0prl3gmBwv0foxdwT4rLLDzsC9b2Pp_LQv5GNux-4c9YGztp0cwUOkvFgJXtyclEzSxPG3JRNTwpN1Jd6nLoS111oT7_1HcCGM5vIytQ2CiWN1u4BgGDGzGN8cMsrLHCs6GhUJ1BM8UDYvLA_k1bH__ot6tXZPvotqm-g4WW2ZFRaKEWrE-Hx7XE3gZZSvtrv-lGcHk4H7LNAmFViXj10APdQkJqaYbEcU3BM0rwYQD0I38uc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            59.9041703,51.9672223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Шильда</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxo5c3F6NQv1uBAYSjDax1E2kJVGB0a6sm0rtecQOA8wZxBUcz26rPpASJqpWhEptGvgw9b8BSU3QGNvmCaR6ErtHvG5hGmPE1tPaYeJhPPmcUTPtzyzoJCbiQn6jiUUCHS4L7u_kSYlgo0fO6Tp1eUMTTpdCakT-c2pnpT9z6sP9j9nwYu4rawkpRmFkNWybvPbOSJWQo-B03oZxUBi7hD5jGNuwI5iHajECpnnDwsEhFzwunm0Jsb4Jc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxo5c3F6NQv1uBAYSjDax1E2kJVGB0a6sm0rtecQOA8wZxBUcz26rPpASJqpWhEptGvgw9b8BSU3QGNvmCaR6ErtHvG5hGmPE1tPaYeJhPPmcUTPtzyzoJCbiQn6jiUUCHS4L7u_kSYlgo0fO6Tp1eUMTTpdCakT-c2pnpT9z6sP9j9nwYu4rawkpRmFkNWybvPbOSJWQo-B03oZxUBi7hD5jGNuwI5iHajECpnnDwsEhFzwunm0Jsb4Jc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            59.765121,51.8173592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Станция Никельтау</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzpdMYuJlfMQ4EKxS5kgyO9qQPXBOfY3aEGCSpMrxlYxkMsQjqUHvStMthWXPKTC2PwlaB5Q6xwtV8XSBUh4EDc7HjxXtIa8W7-Fr00AnCgxq3bq3OCBDq5KKAvMprDDx3ffTqTF1WIoZeZis0R5K8xkPLk0ROKEx0c_Zw5-JcJqQ_GrV4ZL9DLFCNRa85y_1vXOL3hqNE5RaxHVI4OSuTkJQlavFYXuB8IWao8y4xtbfzk3wJ_iXIPTsg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzpdMYuJlfMQ4EKxS5kgyO9qQPXBOfY3aEGCSpMrxlYxkMsQjqUHvStMthWXPKTC2PwlaB5Q6xwtV8XSBUh4EDc7HjxXtIa8W7-Fr00AnCgxq3bq3OCBDq5KKAvMprDDx3ffTqTF1WIoZeZis0R5K8xkPLk0ROKEx0c_Zw5-JcJqQ_GrV4ZL9DLFCNRa85y_1vXOL3hqNE5RaxHVI4OSuTkJQlavFYXuB8IWao8y4xtbfzk3wJ_iXIPTsg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            58.2317582,50.3980376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>станция Кандыагаш</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyfKr0zrQxci3q0hXZV2w7ljSjRT05yja8J6Zk8xgqDEVDEn-YmP4sv92ad_r8bMjqMq32tYOOJebPnGlkxlX60KzVcj0xpgibuXhJZpH0EPtA5mVn8jUT4kCFep8P3vkWBcMP7E40v_pkmeApoRV_zs8dRILN-kglEC3kxfsHFDHbObpqBaw7V3BSxrvDI09TcTZHjU6NYy24kfkt9XX-jh9QTC3D_a1A4fLmFzXajqES9T-uVwyipK_c?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyfKr0zrQxci3q0hXZV2w7ljSjRT05yja8J6Zk8xgqDEVDEn-YmP4sv92ad_r8bMjqMq32tYOOJebPnGlkxlX60KzVcj0xpgibuXhJZpH0EPtA5mVn8jUT4kCFep8P3vkWBcMP7E40v_pkmeApoRV_zs8dRILN-kglEC3kxfsHFDHbObpqBaw7V3BSxrvDI09TcTZHjU6NYy24kfkt9XX-jh9QTC3D_a1A4fLmFzXajqES9T-uVwyipK_c?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            57.4275821,49.4698634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кинжалы</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyjnVBKD8iqOIYisJCuG9uPVmJ3yZYcQWED1KUTsxbvEx0mKp6j0BCByXW1ZUmwfUWh2Gu_wYYBF9FPMuAUGWoaMXWME2zK4R5pUrmXVzobPmtP5BZGV-6mz3virEu-KLnD4i9fHCiYKIiBcmqVRBHjE98-HT9vOUanYVEGR4-H9ijxBR7FMhy5zTi3B2IY2CxCJR43PNLWSDOrHv3lm72s8NOYVCFGFrzPLuVunm1PhBX9-M9Qg7GIcA8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyjnVBKD8iqOIYisJCuG9uPVmJ3yZYcQWED1KUTsxbvEx0mKp6j0BCByXW1ZUmwfUWh2Gu_wYYBF9FPMuAUGWoaMXWME2zK4R5pUrmXVzobPmtP5BZGV-6mz3virEu-KLnD4i9fHCiYKIiBcmqVRBHjE98-HT9vOUanYVEGR4-H9ijxBR7FMhy5zTi3B2IY2CxCJR43PNLWSDOrHv3lm72s8NOYVCFGFrzPLuVunm1PhBX9-M9Qg7GIcA8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.23159,48.94035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Макат</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyi-QDtPMONfVo2porw34nC_jyT9UF6zApzGXhw6VSmIeoDPZDR_ltj09oGY71UCtu27Vn_2j3Yz0s0zpZ9ppd2zodl_I_AR6vnNjRnr_Jod-_Sxf8f4U07YM6FSgPNoT5UaC8_Aldsjk7k4UR9Ih6pYFCNMJcqbiCqyPp4tQ3MS5VDAbKuEwF3MCZrWEfYqpe5SFHw9UPek3rffPvEPVL021vIdKy_DWYv7oa6toncgBIA-F4W6bM8LmQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь в комплекс спутниковой связи на Каспии]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyi-QDtPMONfVo2porw34nC_jyT9UF6zApzGXhw6VSmIeoDPZDR_ltj09oGY71UCtu27Vn_2j3Yz0s0zpZ9ppd2zodl_I_AR6vnNjRnr_Jod-_Sxf8f4U07YM6FSgPNoT5UaC8_Aldsjk7k4UR9Ih6pYFCNMJcqbiCqyPp4tQ3MS5VDAbKuEwF3MCZrWEfYqpe5SFHw9UPek3rffPvEPVL021vIdKy_DWYv7oa6toncgBIA-F4W6bM8LmQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            53.33841,47.6433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>402 Км</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            53.22902,47.61357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>414 Км</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            53.09354,47.55456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Доссор</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            52.96256,47.5108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>441 Км</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            52.79948,47.42746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Таскескен</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            52.45686,47.33238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Замазано?</name>
+        <description><![CDATA[Что-то правительственное? Может реальный комплекс связи?<br>По спутнику очень похоже на регион Каспия в игре]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            52.4258089,47.2266831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Карабатано</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            52.30803,47.27204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>496 Км</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            52.14852,47.19952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тендык</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            52.02906,47.14729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>вокзал Атырау</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx8vjo2ugb90o2fMegQfTAQN_KOFE-JEwjv-etp-mqIo9hOoQ21ziOUQnbhi_9FZk5PhrbCUYGVm6j9sJJm166F5krz14Rw-7Bv4o0k-s9YQE4WZz1yLMcYR8ZGgQthp4CCAVoJb80P2jld7RSU5FI1oJMRou7obXINxgRQTouPf9mB9fYd2CcILurJzg4bePF0di97ZL7iln2iJVpfDcfV45qlUAw5j6GILvP1gFPuqP7-ox9yxHpg3tw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Каспий?]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx8vjo2ugb90o2fMegQfTAQN_KOFE-JEwjv-etp-mqIo9hOoQ21ziOUQnbhi_9FZk5PhrbCUYGVm6j9sJJm166F5krz14Rw-7Bv4o0k-s9YQE4WZz1yLMcYR8ZGgQthp4CCAVoJb80P2jld7RSU5FI1oJMRou7obXINxgRQTouPf9mB9fYd2CcILurJzg4bePF0di97ZL7iln2iJVpfDcfV45qlUAw5j6GILvP1gFPuqP7-ox9yxHpg3tw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.873234,47.1607527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жезказган</name>
+        <description>Путь до долины в Тайге</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            67.66255,47.79374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жезказган</name>
+        <description>Путь до долины в Тайге</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            67.6918638,47.7775282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мынадыр</name>
+        <description>Путь до долины в Тайге</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            70.6209,48.55062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жарык</name>
+        <description>Путь до долины в Тайге</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            72.83258,48.85917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Станция Распорядительная</name>
+        <description>Путь до долины в Тайге</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.1073997,49.8972013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кокпекты - Солонички</name>
+        <description>Путь до долины в Тайге</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.21646,50.04135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Астана Вокзалы</name>
+        <description>Путь до долины в Тайге</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            71.4096445,51.1954139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Тайга, долина</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxcdzTzysFBhUCRNeA1EkLdmcXh7spGfUMy47kLoc4Fs6BXA3CIwm_Tn5xdl43QEkgNjJGh8BtyVjP-fyd8zTmd6Fvpnq5dUgdY3eTEL-M5TTrelH8iNxzOx_9lLKuMAVkdmYmHhQhEOhzWYxoFB-sJu3WkYm6aFIGhylmiLAeRkU27Sa0oLr2olqyhKSYFKqeZPT7-pGal-y8MqbxAb59f5aAZgRcCHNhMKLUaoU9bcELxYUrZSRLikoU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Собирательный образ горной долины с ГЭС. Координаты взяты с игровой карты<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxtjWMtk7ZTQsl0KJhAW6pJ166690OZ2VWIyVR6AzA0XwZe3iJ90lGStPSjMtE2oukdsi6Iu-0LsQKUqJf7E_ocixy-85jwTrhj9m_4qULVFG7QnagnVphha3PKblqUi9MCUjImCL_F857RgW3d4g-JtNcBMigfDv8hV3XN-zNgHBHViJdjS9Fd1-UUuj-WCWIL9RATYVLC_CD8iHNNhhT-g6DTYIekkhVyIp40Yda4-pG3zvvsaoHSUe0?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxcdzTzysFBhUCRNeA1EkLdmcXh7spGfUMy47kLoc4Fs6BXA3CIwm_Tn5xdl43QEkgNjJGh8BtyVjP-fyd8zTmd6Fvpnq5dUgdY3eTEL-M5TTrelH8iNxzOx_9lLKuMAVkdmYmHhQhEOhzWYxoFB-sJu3WkYm6aFIGhylmiLAeRkU27Sa0oLr2olqyhKSYFKqeZPT7-pGal-y8MqbxAb59f5aAZgRcCHNhMKLUaoU9bcELxYUrZSRLikoU?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxtjWMtk7ZTQsl0KJhAW6pJ166690OZ2VWIyVR6AzA0XwZe3iJ90lGStPSjMtE2oukdsi6Iu-0LsQKUqJf7E_ocixy-85jwTrhj9m_4qULVFG7QnagnVphha3PKblqUi9MCUjImCL_F857RgW3d4g-JtNcBMigfDv8hV3XN-zNgHBHViJdjS9Fd1-UUuj-WCWIL9RATYVLC_CD8iHNNhhT-g6DTYIekkhVyIp40Yda4-pG3zvvsaoHSUe0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            70.211451,52.955129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вокзал Кокшетау 1</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            69.4223164,53.2884161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Петропавловск</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            69.1706,54.8567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Карбышево I</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.3286729,54.9379014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Омск</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.3859846,54.9396365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Омск-пригород</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.3868265,54.9408618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Привокзальная</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.4109146,54.9433768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Железнодорожная Станция Московка, Структурное Подразделение Омского Отделения</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.48824,54.93604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Густафьево</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            73.6554021,54.9532113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Татарская</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            75.9568674,55.2141988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Чулымская</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            80.9715009,55.0974466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Станция Новосибирск-Западный</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            82.85453,54.99529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Новосибирский ЖД-мост</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy0zzuR2EYgX5PbKCKzO4A46yQUcDlK7fByuIgTG48ZPMkxD2fHW65mt_oFX_7Aef8AswVQuyHHHqRtF6BoliRuJbszM1pJxQ08A4I3zlv2lvGBJcMEHSmzgWC2HvEUmw2oGxypb91YE0g5pNaiD2HGpF07VNZteb_u_oEr_O6OeIGz9HZIoUtB9d01yVkiE49BM4v0hMSN8MSiGR7zI1vBqzJVw1g1q4pBYpvSo3l8rITviJa7oel-WwU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Путь к НИИ ЭМ в Новосибирске<br><br>Мост из первой сцены в Новосибирске (Мёртвом городе), где Артём вместе с Сэмом сидят на передней части паровоза]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy0zzuR2EYgX5PbKCKzO4A46yQUcDlK7fByuIgTG48ZPMkxD2fHW65mt_oFX_7Aef8AswVQuyHHHqRtF6BoliRuJbszM1pJxQ08A4I3zlv2lvGBJcMEHSmzgWC2HvEUmw2oGxypb91YE0g5pNaiD2HGpF07VNZteb_u_oEr_O6OeIGz9HZIoUtB9d01yVkiE49BM4v0hMSN8MSiGR7zI1vBqzJVw1g1q4pBYpvSo3l8rITviJa7oel-WwU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.9181256,55.0097618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Платформа Правая Обь</name>
+        <description>Путь к НИИ ЭМ в Новосибирске</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            82.9217,55.01906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Жд Вокзал</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx3YufhH1pR0bShP4vAKnWTvjC-T31Ur9wv2bKG8a5F7oGatNMDKO1ayCWan1D4bFfMQAXDyownobRnejNWzZro2EDyru5rwzwK6TpxUN6FenxoLlNBVLdbNR_xKptK50A9IMk2oZu92VoH0wjeCD8mN-o8Y-HvZWCQjkxEHVccAxntJPERcBYgrQUrV4qxaTjYmv0FZfdQFP6XMPu7VRwtsJulKu8OdHrJ3sM7LG0xQjhWTn01BHEFQgE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Место остановки состава для высадки Артёма и Мельника, а так же для выгрузки автомобиля.<br>Маршрут автомобиля начинается с проезда сквозь здание вокзала через разбитые окна, и выезд на площадь между зданием вокзала и спуском в метро.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxpNUhfxmrvBGI8mw3o5mWBFbJztr0WmIolzk7zjUteGUbuLu36Tnb-eV-CE2a-9OAAQSQ9HZwJ9lASfM7yHJGrOPg-xLhVANwxnfc2ChBJKDHyDl2ceE8QygNFK1J9gEAVPdR_jzS33wx_n-fdDlDqOdjfihPdWD8JbUq20hj-unpSytP-4SPfGnWzlkxcahQcx7XUEGZ9TsM_A_lvcpKrSrXaaRIaisiNE2PdXyJyzTu709J7SJvJ90M?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx3YufhH1pR0bShP4vAKnWTvjC-T31Ur9wv2bKG8a5F7oGatNMDKO1ayCWan1D4bFfMQAXDyownobRnejNWzZro2EDyru5rwzwK6TpxUN6FenxoLlNBVLdbNR_xKptK50A9IMk2oZu92VoH0wjeCD8mN-o8Y-HvZWCQjkxEHVccAxntJPERcBYgrQUrV4qxaTjYmv0FZfdQFP6XMPu7VRwtsJulKu8OdHrJ3sM7LG0xQjhWTn01BHEFQgE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxpNUhfxmrvBGI8mw3o5mWBFbJztr0WmIolzk7zjUteGUbuLu36Tnb-eV-CE2a-9OAAQSQ9HZwJ9lASfM7yHJGrOPg-xLhVANwxnfc2ChBJKDHyDl2ceE8QygNFK1J9gEAVPdR_jzS33wx_n-fdDlDqOdjfihPdWD8JbUq20hj-unpSytP-4SPfGnWzlkxcahQcx7XUEGZ9TsM_A_lvcpKrSrXaaRIaisiNE2PdXyJyzTu709J7SJvJ90M?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.8954118,55.0355667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Спуск в метро</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy_vpFguv0BCcViaORBLvYPJp2QvkHXKyhD24I1sGQk3aOg6FaMh-AqjqcMKn2ya5HXWZckq635GVciNKQ4oDCzvNCXLm6thJf3_SsRKezgUhVW-0-cMBUg-x0cJYvaj0Ip-HZhgnI_Vx2DXGrdVlcvJOb8bBn5tF6pbfdWpWSeWge3wkMIG40uBzy5jXPykUz-RHbT1wG-AEbVaGwpQhamkkWTGtXmghtC17YYUAjccjzK_8BTlfwKy4k?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Полностью замёрзший спуск в метро на Дзержинскую (Зелёную) линию.<br>Точка, где Мельник выходит из- автомобиля для осмотра спуска, и позже командует Артёму сесть за руль и вести автомобиль.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy-AQaa_0bBlF_mqBVT065BJYynZivKAXTJeAPf7Re6DVDmlZwVwIP6a7Tjl3RYxXelnEnHaYHnmUZw9gs7bWBA39q8GpEA9G8PWV1nR3OV6FT4096gCUfwzKlL95SjMRjyzxWIhDNggrXF9-gs7uFZJ3th7qrLnwg2bCCzN4oJyLSmrkjMNQvmvE_MYQTj55b1m2ejY8u9FrXObYQ0KvNoU1-8CaPO6CwX0Nrkx_fk9lMaM0MsU759VdM?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1626-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy_vpFguv0BCcViaORBLvYPJp2QvkHXKyhD24I1sGQk3aOg6FaMh-AqjqcMKn2ya5HXWZckq635GVciNKQ4oDCzvNCXLm6thJf3_SsRKezgUhVW-0-cMBUg-x0cJYvaj0Ip-HZhgnI_Vx2DXGrdVlcvJOb8bBn5tF6pbfdWpWSeWge3wkMIG40uBzy5jXPykUz-RHbT1wG-AEbVaGwpQhamkkWTGtXmghtC17YYUAjccjzK_8BTlfwKy4k?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy-AQaa_0bBlF_mqBVT065BJYynZivKAXTJeAPf7Re6DVDmlZwVwIP6a7Tjl3RYxXelnEnHaYHnmUZw9gs7bWBA39q8GpEA9G8PWV1nR3OV6FT4096gCUfwzKlL95SjMRjyzxWIhDNggrXF9-gs7uFZJ3th7qrLnwg2bCCzN4oJyLSmrkjMNQvmvE_MYQTj55b1m2ejY8u9FrXObYQ0KvNoU1-8CaPO6CwX0Nrkx_fk9lMaM0MsU759VdM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.897524,55.0360508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Проезд</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwbI1CBvrs84T5EQolp7OP4HUJ3AmCjbRId4RyfIjnQjYbVQeJ0oQKdjvEWToLJeZP2V5D4p_2rBJ-XjZCLygHmZyUZR8iWFqltsfaG_s23UXFCspEG_wWNvSk_S_lmexJAYd85IZAuuysKBIi5tAl1Z2mox6TbOvgMfj9p9sTg0-Lh7sCOSHC80KTuiMQy3HjcZRbV4GEon5WY9A0gU5CIARVvenl9wMoDKzd-2lgD8__rrHKSVsiH_hI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Когда Артём садится за руль автомобиля, после осмотра спуска в метро, движение идёт по именно этой улице.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzbfgBjJTktVe1P1FW6Yl5kWueB47blAZQ12NpUuZukZhPnjHL2eTpn3a2epZHS_9RbcBs4TtYML41fgPyx0UoQf7Scu_CLP0Qh4mOnazCadrpW4N_t0Hk-HRk9H9ku6T9-lMwFMFttueGi2Ym8p8ydXNT79g2ZGVle9GyLyNQpUDFYdBde6vYuXpRjZHphj-aqX9rmNiFVU6_wFZpDqVdQASzjsCSM9hcHfOPkE4MpxPwKP88AynD2elk?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwbI1CBvrs84T5EQolp7OP4HUJ3AmCjbRId4RyfIjnQjYbVQeJ0oQKdjvEWToLJeZP2V5D4p_2rBJ-XjZCLygHmZyUZR8iWFqltsfaG_s23UXFCspEG_wWNvSk_S_lmexJAYd85IZAuuysKBIi5tAl1Z2mox6TbOvgMfj9p9sTg0-Lh7sCOSHC80KTuiMQy3HjcZRbV4GEon5WY9A0gU5CIARVvenl9wMoDKzd-2lgD8__rrHKSVsiH_hI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzbfgBjJTktVe1P1FW6Yl5kWueB47blAZQ12NpUuZukZhPnjHL2eTpn3a2epZHS_9RbcBs4TtYML41fgPyx0UoQf7Scu_CLP0Qh4mOnazCadrpW4N_t0Hk-HRk9H9ku6T9-lMwFMFttueGi2Ym8p8ydXNT79g2ZGVle9GyLyNQpUDFYdBde6vYuXpRjZHphj-aqX9rmNiFVU6_wFZpDqVdQASzjsCSM9hcHfOPkE4MpxPwKP88AynD2elk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.8982512,55.0369018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Проезд</name>
+        <description><![CDATA[Вероятно, именно здесь Артём и Мельник упираются в затор и сворачивают во дворы.<br><br>Несмотря на довольно точную копию города, разработчики явно внесли некие изменения, для улучшения геймплея и большего количества возможностей. Одно из таких изменений - добавление проезда через арку в доме, которая отсутствует в реальности. <br><br>Ввиду этого, маршрут от пересечения улиц Ленина и Челюскинцев, до площади Лунинцев является приблизительным, хоть и был воспроизведён с максимально возможной точностью.]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            82.9014862,55.0379911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.9019047,55.0378436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.9021434,55.0376853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.90283,55.0377452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.9031465,55.0379788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.9036078,55.0381417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.9039565,55.0382678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.9042151,55.0383592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Объезд затора</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            82.904132,55.0385313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Проезд</name>
+        <description>Выход на эту же улицу, после успешного объезда затора</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            82.9039522,55.038785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Выход из автомобиля</name>
+        <description><![CDATA[Примерно в этом месте, дорогу перегородил танк, повернувший башню направо, тем самым пушкой перекрыв проезд. Артёму и Мельнику приходится оставить автомобиль в снегу и пойти дальше пешком.<br><br>"Сейчас будет большая развязка, и где-то за ней вход на станцию" - Мельник.]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            82.9057677,55.039495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Большая развязка</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwUs3GzXnUgKD9o19JAEAaM_DQhhKDSB5DHtjZUrfgBPFulRk7AkFwMlsh1iw9XB2RbiaxFi9-3wG_2n6DGpF4aA1WzKUQCBpQfzp2dafn0XDC26VYESDTvMjZO6gxpyIapSjunW4EHm8r747vfllvS6jivVw9VGo8QvA4B0mZdwmS0KkIUs1lVEVKK043KLcT5EFEhX6Tcc8XK0A9AvYY_ZC45NHZrn58tOU7tN91BJDQaVeGXg9jirGY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Та самая большая развязка, о которой недавно говорил Мельник. <br><br>Точка спуска Артёма и Мельника в подземку Новосибирска.<br>Место где они скатываются вниз по автобусу и разжимают двери вагона метро для дальнейшего прохода внутрь.]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwUs3GzXnUgKD9o19JAEAaM_DQhhKDSB5DHtjZUrfgBPFulRk7AkFwMlsh1iw9XB2RbiaxFi9-3wG_2n6DGpF4aA1WzKUQCBpQfzp2dafn0XDC26VYESDTvMjZO6gxpyIapSjunW4EHm8r747vfllvS6jivVw9VGo8QvA4B0mZdwmS0KkIUs1lVEVKK043KLcT5EFEhX6Tcc8XK0A9AvYY_ZC45NHZrn58tOU7tN91BJDQaVeGXg9jirGY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.9092331,55.0406323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Научно-исследовательский институт экстремальной медицины (НИИ ЭМ)</name>
+        <description><![CDATA[В реальности НИИ ЭМ не существует ни в Новосибирске, ни в реальной жизни.<br>Скорее всего, основан на национальном медицинском исследовательском центре имени Мешалкина, однако данный институт находится на окраине города, напротив здания музея железнодорожной техники, где остальная часть команды искала снегоочиститель.<br><br>Этой точкой выбран ННИИПК (Новосибирский научно-исследовательский институт патологии кровообращения) имени академика Е. Н. Мешалкина, как наиболее подходящий по логике сюжета и движения игровых персонажей. Также, покинув ННИИПК можно довольно быстро доехать до железной дороги, где в финале игры Артёма, Кирилла, и погибшего от облучения Мельника подбирает экипаж Авроры.]]></description>
+        <styleUrl>#icon-1499-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            82.9107937,55.0453928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сибирская - Красный проспект</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxlgl2a8YWEgb1wJRbJwnJw9HQujRJNRX-7IattTH88uZM4SgP5mpuJ0YDgvLwuybA7p8hL93X5KGkdjHCPjGOOuhc5uPQpTWvdspenWmRyzXZ5DjgUGqkJR4LMmzw_p-pbJLTt53yr_EW5NOWXip4Q7SYfKu2CRKwlKDCMzBs0wyqcViD5SNndh4isSTs8Cef2UU3XQp_elOnsQ5pp11VK21M3zLzdOPUe9bKjDBC6-of51XnAE-brb5Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Место стыковки Дзержинской (зелёной) и Ленинской (красной) линий.<br><br>Станция Сибирская - Место где Артём и Мельник отстреливаются от стаи упырей, затаившихся под множеством тел и скелетов.<br><br>Следуя через станцию, персонажи переходят в вент-шахту, где встречают Кирилла, который пытается от них сбежать. Когда Кирилла догоняют, он выводит Артёма и Мельника на станцию Красный Проспект, и в его с отцом место жительства.<br><br>Станция Сибирская является одной из игровых локаций в дополнении "Два полковника". По сюжету, когда на станции происходит перестрелка, внезапно кто-то пускает ядовитый газ - хлор, в результате чего 99.9% всех участников боя погибают.]]></description>
+        <styleUrl>#icon-1626-097138</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxlgl2a8YWEgb1wJRbJwnJw9HQujRJNRX-7IattTH88uZM4SgP5mpuJ0YDgvLwuybA7p8hL93X5KGkdjHCPjGOOuhc5uPQpTWvdspenWmRyzXZ5DjgUGqkJR4LMmzw_p-pbJLTt53yr_EW5NOWXip4Q7SYfKu2CRKwlKDCMzBs0wyqcViD5SNndh4isSTs8Cef2UU3XQp_elOnsQ5pp11VK21M3zLzdOPUe9bKjDBC6-of51XnAE-brb5Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.9172366,55.0421907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Маршрут Авроры</name>
+    </Folder>
+    <Folder>
+      <name>Отметки городов на карте</name>
+      <Placemark>
+        <name>Вернадовка</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzhclD8MGkdMtb22Orxj7ABOcjZP6myOWvBlgDLbBJRHqosDrMNtaRKZZrQBkVz3dEXUM92XJ8uqAOWLqShEbYvhir6SsLHG91cMH0VksklL5k39wIzdn1F3cld3K8kzA8HsUbdIonVASYBMENnKc1MUv53ljL64DeKqrbp0A1U3AQa4QzCY6i-VGBZZ4DBhodqeIMBrmJ9Vc6ZUZLSrLKXD-KI4Z_YHZwBHrOscJL0cZo3zsPiy1QwSQ4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Павелец-Вернадовка<br><br>Попытка проверить путь в сторону Вернадовки. По игровой карте отмечено как тупиковое направление. Реальная конфигурация железнодорожной сети не позволяет однозначно восстановить этот участок, поэтому маршрут показан условно.]]></description>
+        <styleUrl>#icon-1712-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzhclD8MGkdMtb22Orxj7ABOcjZP6myOWvBlgDLbBJRHqosDrMNtaRKZZrQBkVz3dEXUM92XJ8uqAOWLqShEbYvhir6SsLHG91cMH0VksklL5k39wIzdn1F3cld3K8kzA8HsUbdIonVASYBMENnKc1MUv53ljL64DeKqrbp0A1U3AQa4QzCY6i-VGBZZ4DBhodqeIMBrmJ9Vc6ZUZLSrLKXD-KI4Z_YHZwBHrOscJL0cZo3zsPiy1QwSQ4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            42.3859776,53.3059948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пенза-1</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzD0f-FAi6O7Ny03LjwagRB2WGQZTiYldSy9Ue4BK1M7xZ7Kkkxg1zgIysV6ku_EirIJ1QhSFf2HDgeSv59mCiLNvLfnSHLeRedSEmp4npA9T-EE4EaFHcIUSf0YR6oj8t7qYfiAsEVe8CyzroKc7xB_UhkyfkNloTJxdeuqx6Y9QGxT9ABW4Q1lqGxvYrWyZmosSCvSXgqaTM3fMYRe-EyuQLD2LGGYkK0nNkcOdgqSHDjLmVsU8CVno8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Ртищево-Пенза<br><br>Попытка проверить маршрут не увенчалась успехом. На игровой карте стоит отметка о высоком уровне радиации.]]></description>
+        <styleUrl>#icon-1642-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzD0f-FAi6O7Ny03LjwagRB2WGQZTiYldSy9Ue4BK1M7xZ7Kkkxg1zgIysV6ku_EirIJ1QhSFf2HDgeSv59mCiLNvLfnSHLeRedSEmp4npA9T-EE4EaFHcIUSf0YR6oj8t7qYfiAsEVe8CyzroKc7xB_UhkyfkNloTJxdeuqx6Y9QGxT9ABW4Q1lqGxvYrWyZmosSCvSXgqaTM3fMYRe-EyuQLD2LGGYkK0nNkcOdgqSHDjLmVsU8CVno8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            44.9996692,53.1863639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вектор, государственный научный центр вирусологии и биотехнологии</name>
+        <description><![CDATA[Упоминается в романе «Увидеть солнце» Сергея Москвина.<br><br>"— А ведь под Новосибирском, всего в двенадцати километрах от города, в поселке Кольцово, существовал центр разработки биологического оружия. Государственный научный центр вирусологии и биотехнологии «Вектор», так он назывался."<br>— Вольтер, объясняя Полине и Сергею, где был разработан «Чёрный Дракон»]]></description>
+        <styleUrl>#icon-1524-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            83.223997,54.9419081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей железнодорожной техники в академгородке</name>
+        <description>Место, где спартанцы занимаются поиском снегоочистителя для поезда</description>
+        <styleUrl>#icon-1636-097138</styleUrl>
+        <Point>
+          <coordinates>
+            83.0759373,54.8688375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Национальный медицинский исследовательский центр имени академика Е. Н. Мешалкина</name>
+        <description>Наиболее вероятный выбор для создания здания НИИ ЭМ, однако в угоду игровому сюжету находящийся в другом месте.</description>
+        <styleUrl>#icon-1624-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            83.0733301,54.867772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Линия</name>
+      <Placemark>
+        <name>Черновая линия, просто чтобы была</name>
+        <styleUrl>#line-C2185B-4488-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            45.9788122,51.4117111,0
+            46.017951,51.4067856,0
+            46.0456743,51.4155387,0
+            46.0780325,51.4099979,0
+            46.9768038,51.2362775,0
+            48.2674017,51.3510701,0
+            49.7381963,51.1731852,0
+            51.2762823,51.2677991,0
+            51.3724127,51.217936,0
+            55.0933123,51.7431829,0
+            55.0777705,51.777177,0
+            55.0561412,51.8285536,0
+            52.3078425,52.7612195,0
+            50.6214411,53.2208252,0
+            51.2037165,53.2684883,0
+            52.1622737,53.6316006,0
+            55.8207209,54.661114,0
+            58.0289729,54.2379356,0
+            58.3063777,53.9043282,0
+            60.6141016,53.0038685,0
+            59.9521753,51.9787823,0
+            59.7956201,51.8177761,0
+            58.1971094,50.4144605,0
+            57.3456689,49.4955959,0
+            56.2250635,48.9683098,0
+            53.3768579,47.6272608,0
+            53.22902,47.61357,0
+            53.09354,47.55456,0
+            52.9840967,47.501237,0
+            52.8165552,47.4251056,0
+            52.4924585,47.3321131,0
+            52.30803,47.27204,0
+            52.14852,47.19952,0
+            52.02906,47.14729,0
+            51.9101831,47.145636,0
+            67.652279,47.7937,0
+            67.6838647,47.7706304,0
+            70.6209,48.55062,0
+            72.8419458,48.8393307,0
+            73.1275903,49.8821669,0
+            73.2402002,50.0270718,0
+            71.4164697,51.1155142,0
+            70.2683984,52.9137956,0
+            69.3455469,53.2569235,0
+            69.1093408,54.8623102,0
+            73.3254402,54.9375053,0
+            73.3680122,54.9290236,0
+            73.3831184,54.9304045,0
+            73.3868265,54.9408618,0
+            73.3922164,54.9474641,0
+            73.4009712,54.9497316,0
+            73.4059493,54.9470697,0
+            73.4109146,54.9433768,0
+            73.4260337,54.930651,0
+            73.4302394,54.9296647,0
+            73.4368484,54.9299606,0
+            73.4474914,54.9309469,0
+            73.488261,54.9352864,0
+            73.655643,54.9527951,0
+            75.9608837,55.2092333,0
+            80.9732706,55.094726,0
+            82.8532271,54.9951256,0
+            82.9026656,54.9988674,0
+            82.9194884,55.009697,0
+            82.9236941,55.0160949,0
+            82.9211192,55.0187522,0
+            82.9164844,55.0209664,0
+            82.9084163,55.0229346,0
+            82.8938251,55.0351841,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
